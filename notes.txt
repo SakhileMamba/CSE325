@@ -1,0 +1,167 @@
+I used a post request below to add a new record instead of rewriting the code
+
+GET request:
+
+GET {{ContosoPizza_HostAddress}}/pizza/
+Accept: application/json
+
+GET response:
+
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Sep 2026 23:12:58 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+
+[
+  {
+    "id": 1,
+    "name": "Classic Italian",
+    "isGlutenFree": false
+  },
+  {
+    "id": 2,
+    "name": "Veggie",
+    "isGlutenFree": true
+  }
+]
+
+
+GET request with Id:
+
+GET {{ContosoPizza_HostAddress}}/pizza/1
+Accept: application/json
+
+GET request with Id response:
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Sep 2026 23:14:51 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+
+{
+  "id": 1,
+  "name": "Classic Italian",
+  "isGlutenFree": false
+}
+
+
+POST request:
+
+POST {{ContosoPizza_HostAddress}}/pizza/
+Content-Type: application/json
+
+{
+    "name": "Hawaii",
+    "isGlutenFree": false
+}
+
+
+POST response:
+
+HTTP/1.1 201 Created
+Connection: close
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Sep 2026 23:15:43 GMT
+Server: Kestrel
+Location: http://localhost:5224/Pizza/3
+Transfer-Encoding: chunked
+
+{
+  "id": 3,
+  "name": "Hawaii",
+  "isGlutenFree": false
+}
+
+
+PUT request:
+
+PUT {{ContosoPizza_HostAddress}}/pizza/3
+Content-Type: application/json
+
+{
+    "id": 3,
+    "name": "Hawaiian",
+    "isGlutenFree": false
+}
+
+PUT response:
+
+HTTP/1.1 204 No Content
+Connection: close
+Date: Sat, 12 Sep 2026 23:16:15 GMT
+Server: Kestrel
+
+PUT request verification with GET to update:
+
+GET {{ContosoPizza_HostAddress}}/pizza/3
+Accept: application/json
+
+PUT request verification with GET response to show update:
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Sep 2026 23:17:53 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+
+{
+  "id": 3,
+  "name": "Hawaiian",
+  "isGlutenFree": false
+}
+
+DELETE request:
+
+DELETE {{ContosoPizza_HostAddress}}/pizza/3
+
+DELETE response:
+
+HTTP/1.1 204 No Content
+Connection: close
+Date: Sat, 12 Sep 2026 23:19:03 GMT
+Server: Kestrel
+
+
+DELETE request verification with GET:
+
+GET {{ContosoPizza_HostAddress}}/pizza/
+Accept: application/json
+
+DELETE request verification with GET response:
+
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: application/json; charset=utf-8
+Date: Sat, 12 Sep 2026 23:20:19 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+
+[
+  {
+    "id": 1,
+    "name": "Classic Italian",
+    "isGlutenFree": false
+  },
+  {
+    "id": 2,
+    "name": "Veggie",
+    "isGlutenFree": true
+  }
+]
+
+
+Part 2
+
+
+
+
+
+
+
