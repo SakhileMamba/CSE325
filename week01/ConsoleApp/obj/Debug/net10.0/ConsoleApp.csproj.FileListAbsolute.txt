@@ -1,0 +1,14 @@
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/bin/Debug/net10.0/ConsoleApp
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/bin/Debug/net10.0/ConsoleApp.deps.json
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/bin/Debug/net10.0/ConsoleApp.runtimeconfig.json
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/bin/Debug/net10.0/ConsoleApp.dll
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/bin/Debug/net10.0/ConsoleApp.pdb
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/obj/Debug/net10.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfo.cs
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/obj/Debug/net10.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/obj/Debug/net10.0/ConsoleApp.dll
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/obj/Debug/net10.0/refint/ConsoleApp.dll
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/obj/Debug/net10.0/ConsoleApp.pdb
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/obj/Debug/net10.0/ConsoleApp.genruntimeconfig.cache
+/Users/sakhile/Desktop/BYUI/CSE325/week01/ConsoleApp/obj/Debug/net10.0/ref/ConsoleApp.dll

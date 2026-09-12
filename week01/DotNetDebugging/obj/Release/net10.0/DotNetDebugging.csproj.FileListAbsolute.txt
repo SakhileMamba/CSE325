@@ -1,0 +1,14 @@
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/bin/Release/net10.0/DotNetDebugging
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/bin/Release/net10.0/DotNetDebugging.deps.json
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/bin/Release/net10.0/DotNetDebugging.runtimeconfig.json
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/bin/Release/net10.0/DotNetDebugging.dll
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/bin/Release/net10.0/DotNetDebugging.pdb
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.AssemblyInfoInputs.cache
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.AssemblyInfo.cs
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.dll
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/obj/Release/net10.0/refint/DotNetDebugging.dll
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.pdb
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/obj/Release/net10.0/DotNetDebugging.genruntimeconfig.cache
+/Users/sakhile/Desktop/BYUI/CSE325/week01/DotNetDebugging/obj/Release/net10.0/ref/DotNetDebugging.dll
